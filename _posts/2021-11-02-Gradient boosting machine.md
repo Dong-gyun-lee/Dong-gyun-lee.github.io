@@ -15,7 +15,8 @@ use_math: true
 ## 1. Introduction  
 
 앙상블 방법은 weak learner 들을 결합하여 더 강력한 앙상블 예측을 얻으려고 하는 방법이다.
-특히 앙상블 방법 중 부스팅 방법의 아이디어는 앙상블에 새로운 모델을 추가하는 것이다. 
+특히 앙상블 방법 중 부스팅 방법의 아이디어는 앙상블에 새로운 모델을 추가하는 것이다.  
+Gradient boosting은 모델의 잔차(negative gradient)를 부스팅 방법으로 학습하는 모델이다.
 
 <br>
 
