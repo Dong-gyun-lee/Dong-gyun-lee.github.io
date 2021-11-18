@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Dong-gyun-lee 
+an-seunghwan
+/
+an-seunghwan.github.io
+Public
+1
+11
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+an-seunghwan.github.io/_sass/minimal-mistakes/_base.scss
+@an-seunghwan
+an-seunghwan update
+Latest commit 2de6030 on 30 Dec 2019
+ History
+ 1 contributor
+357 lines (294 sloc)  4.7 KB
+   
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
@@ -35,27 +65,27 @@ h6 {
 
 h1 {
   margin-top: 0;
-  font-size: $h-size-1;
+  font-size: $type-size-3;
 }
 
 h2 {
-  font-size: $h-size-2;
+  font-size: $type-size-4;
 }
 
 h3 {
-  font-size: $h-size-3;
+  font-size: $type-size-5;
 }
 
 h4 {
-  font-size: $h-size-4;
+  font-size: $type-size-6;
 }
 
 h5 {
-  font-size: $h-size-5;
+  font-size: $type-size-6;
 }
 
 h6 {
-  font-size: $h-size-6;
+  font-size: $type-size-6;
 }
 
 small,
@@ -355,3 +385,15 @@ input[type="submit"],
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
